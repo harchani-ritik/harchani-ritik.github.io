@@ -1,0 +1,11 @@
+date_,cms_product_id,product_name,l0_category,l1_category,unit,city_name,blinkit_mrp,blinkit_sp,zeptosupersaver_mrp,zss_sp,zepto_mrp,zepto_sp,swiggy_mrp,swiggy_sp,blinkit_wlp,brand_fund_value,zeptosupersaver_competitive_status,zepto_competitive_status,swiggy_competitive_status,min_competitive_status,percentage_diff_vs_min,competitive_score_vs_min,latitude,longitude
+2025-11-25,367909,Hybrid Tomato,Vegetables & Fruits,Fresh Vegetables,500 g,ambala,61.0,45.0,,,,,49.0,39.0,0.0,0.0,,,expensive,expensive,15.38,2,30.332514,76.852463
+2025-11-25,412301,Fortune Sunflower Oil,Oil & Ghee,Edible Oils,1 L,bangalore,178.0,155.0,170.0,150.0,182.0,160.0,185.0,165.0,0.0,12.0,competitive,expensive,expensive,competitive,1.29,1,12.971599,77.594566
+2025-11-25,592210,Amul Taaza Milk,Dairy & Breakfast,Milk,1 L,delhi,68.0,64.0,65.0,63.0,70.0,66.0,72.0,67.0,0.0,0.0,competitive,competitive,expensive,competitive,1.59,1,28.613939,77.209021
+2025-11-25,881022,Aashirvaad Atta 10kg,Staples,Flours,10 kg,mumbai,499.0,450.0,480.0,440.0,510.0,465.0,520.0,470.0,0.0,20.0,competitive,expensive,expensive,competitive,2.27,1,19.076090,72.877426
+2025-11-25,663421,Maggi Masala Noodles,Snacks & Branded Foods,Instant Noodles,280 g,pune,52.0,48.0,,,,,50.0,47.0,0.0,0.0,,competitive,competitive,competitive,0.00,0,18.520430,73.856743
+2025-11-25,774231,Coca Cola 1.25L,Beverages,Soft Drinks,1.25 L,jaipur,78.0,70.0,75.0,68.0,80.0,72.0,81.0,73.0,0.0,5.0,competitive,competitive,expensive,competitive,2.94,1,26.912434,75.787270
+2025-11-25,990122,Chakki Fresh Atta,Staples,Flours,5 kg,lucknow,240.0,220.0,235.0,215.0,245.0,225.0,250.0,230.0,0.0,0.0,competitive,competitive,expensive,competitive,2.27,1,26.846708,80.946159
+2025-11-25,519004,Golden Bananas,Vegetables & Fruits,Fruits,1 kg,kolkata,72.0,60.0,,,,,68.0,58.0,0.0,0.0,,competitive,competitive,competitive,0.00,0,22.572646,88.363895
+2025-11-25,883311,Surf Excel Easy Wash,Home Care,Detergents,1 kg,chandigarh,115.0,99.0,110.0,95.0,118.0,102.0,120.0,105.0,0.0,10.0,competitive,expensive,expensive,competitive,3.95,1,30.733315,76.779418
+2025-11-25,771015,Onion Red,Vegetables & Fruits,Fresh Vegetables,1 kg,hyderabad,38.0,32.0,,,,,40.0,34.0,0.0,0.0,,competitive,expensive,competitive,6.25,1,17.385044,78.486671
